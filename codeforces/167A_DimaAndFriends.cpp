@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-#include <map>
-
 
 int main() {	
 	int r = 0, n = 0, t = 0, p = 0, c = 5, f = 0;
